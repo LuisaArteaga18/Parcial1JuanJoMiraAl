@@ -1,0 +1,4 @@
+metodo1
+{
+buenas
+}
